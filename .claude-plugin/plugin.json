@@ -1,0 +1,10 @@
+{
+  "name": "piksel-ofis",
+  "version": "0.1.0",
+  "description": "Ajanların çalışmasını piksel art bir ofiste canlı gösteren panel. Model çağırmaz, bağlama hiçbir şey yazmaz.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "keremsalur"
+  },
+  "repository": "https://github.com/keremsalur/claude-office-mod"
+}

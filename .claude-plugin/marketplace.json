@@ -1,0 +1,5 @@
+{
+  "name": "claude-office-mod",
+  "owner": { "name": "keremsalur" },
+  "plugins": [{ "name": "piksel-ofis", "source": "./" }]
+}
